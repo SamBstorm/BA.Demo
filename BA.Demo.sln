@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Exemple", "BA.Demo.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Conditionnel", "BA.Demo.Conditionnel\BA.Demo.Conditionnel.csproj", "{A45D75F4-A213-4ECE-A5E7-887462012D8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.Booleen", "BA.Demo.Booleen\BA.Demo.Booleen.csproj", "{9BB1B6CA-59B7-4C53-A461-9813CDAA997C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Booleen", "BA.Demo.Booleen\BA.Demo.Booleen.csproj", "{9BB1B6CA-59B7-4C53-A461-9813CDAA997C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.Ternaire", "BA.Demo.Ternaire\BA.Demo.Ternaire.csproj", "{12B7F517-551F-4F6D-A439-BEBEF1451558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Ternaire", "BA.Demo.Ternaire\BA.Demo.Ternaire.csproj", "{12B7F517-551F-4F6D-A439-BEBEF1451558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.Coalesce", "BA.Demo.Coalesce\BA.Demo.Coalesce.csproj", "{900BC4AB-F229-4A04-81C9-15AFC41CE4A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Coalesce", "BA.Demo.Coalesce\BA.Demo.Coalesce.csproj", "{900BC4AB-F229-4A04-81C9-15AFC41CE4A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.Boucles", "BA.Demo.Boucles\BA.Demo.Boucles.csproj", "{7C2F8B10-CC6D-4393-AC9E-7699AD57947F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Boucles", "BA.Demo.Boucles\BA.Demo.Boucles.csproj", "{7C2F8B10-CC6D-4393-AC9E-7699AD57947F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.Tableau", "BA.Demo.Tableau\BA.Demo.Tableau.csproj", "{AF446696-BF99-45B9-9395-4F9BDAF13B3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Tableau", "BA.Demo.Tableau\BA.Demo.Tableau.csproj", "{AF446696-BF99-45B9-9395-4F9BDAF13B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.Structs", "BA.Demo.Structs\BA.Demo.Structs.csproj", "{78E3C28E-69EC-46F3-80B7-45CFFC563624}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{AF446696-BF99-45B9-9395-4F9BDAF13B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF446696-BF99-45B9-9395-4F9BDAF13B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF446696-BF99-45B9-9395-4F9BDAF13B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E3C28E-69EC-46F3-80B7-45CFFC563624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E3C28E-69EC-46F3-80B7-45CFFC563624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E3C28E-69EC-46F3-80B7-45CFFC563624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E3C28E-69EC-46F3-80B7-45CFFC563624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
