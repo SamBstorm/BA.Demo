@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace BA.Demo.Exemple
 {
@@ -6,7 +8,8 @@ namespace BA.Demo.Exemple
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
+        
 }
