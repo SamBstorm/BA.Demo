@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BA.Demo.MediaStruct
+namespace BA.Demo.EnumMedia
 {
     public struct Media
     {
         public string Titre, SousTitre, Synopsis;
-        public bool SupportHaveImage; //Support : Audio / Vidéo
+        public SupportMedia Support;
         public uint Duree;
         public Auteur Auteur;
     }
