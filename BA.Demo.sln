@@ -49,6 +49,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BA.Demo.Array", "BA.Demo.Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.EnumMedia", "BA.Demo.EnumMedia\BA.Demo.EnumMedia.csproj", "{C907E538-9CDE-4291-A07B-9D784F5F802B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.NomVariableMotReserve", "BA.Demo.NomVariableMotReserve\BA.Demo.NomVariableMotReserve.csproj", "{95543817-B6B8-494B-801B-84E3EFE06564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA.Demo.Encapsulation", "BA.Demo.Encapsulation\BA.Demo.Encapsulation.csproj", "{FB781798-23DF-459E-9D61-0AA1CEB1A555}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{C907E538-9CDE-4291-A07B-9D784F5F802B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C907E538-9CDE-4291-A07B-9D784F5F802B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C907E538-9CDE-4291-A07B-9D784F5F802B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95543817-B6B8-494B-801B-84E3EFE06564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95543817-B6B8-494B-801B-84E3EFE06564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95543817-B6B8-494B-801B-84E3EFE06564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95543817-B6B8-494B-801B-84E3EFE06564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB781798-23DF-459E-9D61-0AA1CEB1A555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB781798-23DF-459E-9D61-0AA1CEB1A555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB781798-23DF-459E-9D61-0AA1CEB1A555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB781798-23DF-459E-9D61-0AA1CEB1A555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using BA.Demo.Structs.Messaging;
 
 namespace BA.Demo.Structs
 {

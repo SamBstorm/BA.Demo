@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BA.Demo.Structs
+namespace BA.Demo.Structs.Messaging
 {
     public struct Message
     {
